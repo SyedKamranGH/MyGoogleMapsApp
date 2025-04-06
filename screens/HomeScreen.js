@@ -79,10 +79,10 @@ const HomeScreen = () => {
         longitudeDelta: 0.01,
       }
     : {
-        latitude: 37.78825,
-        longitude: -122.4324,
-        latitudeDelta: 0.0922,
-        longitudeDelta: 0.0421,
+        latitude: 31.5497,
+        longitude: 74.3436,
+        latitudeDelta: 0.2,
+        longitudeDelta: 0.2,
       };
 
   return (
